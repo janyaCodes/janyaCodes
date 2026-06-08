@@ -1,34 +1,20 @@
 
+
 # Hi, I’m Janya Rangeswaran 👋
 
-### AI Engineer | Building Intelligent, Production-Ready AI Systems
 
-I specialize in designing and developing **scalable, production-oriented AI solutions** focused on reliability, usability, and real-world impact.
+● I am an **AI Engineer** passionate about building intelligent, production-oriented AI systems and scalable data-driven applications.
 
-## 🚀 Areas of Expertise
+● I work on projects involving **AI Agents, RAG Pipelines, Conversational AI, LLM Orchestration, Snowflake Cortex, and Intelligent Automation**.
 
-- **AI Agents & Agentic Workflows**
-- **RAG Pipelines & Conversational Intelligence**
-- **LLM Orchestration & Applied Generative AI**
-- **Scalable Data + AI Architectures**
+● My areas of interest lie in **Artificial Intelligence, Generative AI, Intelligent Systems, Data Engineering, and Software Engineering**.
 
-## 🎯 What I Care About
+● Currently exploring **Multi-Agent Systems, Enterprise AI, AI Infrastructure, and Applied Generative AI**.
 
-I’m passionate about building AI systems that are:
+● I actively share my learnings and technical insights through writing on **Substack and Medium**.
 
-- ✅ Reliable in production  
-- ✅ Human-aware and observable  
-- ✅ Scalable across workflows  
-- ✅ Designed for meaningful impact  
-
-## 🔬 Currently Exploring
-
-**Multi-Agent Systems · Enterprise AI · Intelligent Automation · AI-Native Applications**
-
-## 🌐 Connect With Me
-
-- 🔗 **LinkedIn:** [janya-rangeswaran](https://www.linkedin.com/in/janya-rangeswaran-a57b8b238/)
-- 📝 **Substack:** [@janyacodes](https://substack.com/@janyacodes)
-- ✍️ **Medium:** [@janyeah.s](https://medium.com/@janyeah.s)
+● You can connect with me here:  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 LinkedIn: https://www.linkedin.com/in/janya-rangeswaran-a57b8b238/  
+&nbsp;&nbsp;&nbsp;&nbsp;📝 Substack: https://substack.com/@janyacodes  
+&nbsp;&nbsp;&nbsp;&nbsp;✍️ Medium: https://medium.com/@janyeah.s
 ```
-
