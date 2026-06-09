@@ -14,6 +14,7 @@
 ● I actively share my learnings and technical insights through writing on **Substack and Medium**.
 
 ● You can connect with me here:  
+&nbsp;&nbsp;&nbsp;&nbsp;📨 Email: mail.janya.s@gmail.com
 &nbsp;&nbsp;&nbsp;&nbsp;🔗 LinkedIn: https://www.linkedin.com/in/janya-rangeswaran-a57b8b238/  
 &nbsp;&nbsp;&nbsp;&nbsp;📝 Substack: https://substack.com/@janyacodes  
 &nbsp;&nbsp;&nbsp;&nbsp;✍️ Medium: https://medium.com/@janyeah.s
